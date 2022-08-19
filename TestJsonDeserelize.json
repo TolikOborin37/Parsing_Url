@@ -1,0 +1,459 @@
+﻿{
+  "data": {
+    "searchReportWoodDeal": {
+      "content": [
+        {
+          "buyerInn": "", // Инн покупателя
+          "buyerName": "Физическое лицо", //4. Наименование покупателя
+          "dealDate": "2022-08-02", // 6. Дата сделки
+          "dealNumber": "9306000000000000009102060830", //1. Номер декларации
+          "sellerInn": "9102060830", // 3. ИНН Номер продавца
+          "sellerName": "ГАУ РК \"Симферопольское ЛОХ\"", //2. Номер продавца 
+          "woodVolumeBuyer": 0.0, // объем древесины покупателя
+          "woodVolumeSeller": 7.0, // объем древесины продавца
+          "__typename": "ReportWoodDeal" // отчет о сделке древесины
+        },
+        {
+          "sellerName": "Специализированное государственное бюджетное учреждение Воронежской области  «Воронежский лесопожарный центр»",
+          "sellerInn": "3663088069",
+          "buyerName": "ИП Кадынцев Юрий  Викторович",
+          "buyerInn": "360400400497",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2105-04-07",
+          "dealNumber": "0001360400400497003663088069",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Назаров Сергей Александрович",
+          "sellerInn": "022300806461",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 29.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0198000000000000022300806461",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП МУРАТОВА РЕЗЕДА РУСТАМОВНА",
+          "sellerInn": "024903147519",
+          "buyerName": "Чекмагушевское районное потребительское общество",
+          "buyerInn": "0249000129",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0005000249000129024903147519",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Биргалин Мухтар Уралович",
+          "sellerInn": "025401158815",
+          "buyerName": "ООО \"Трансавто\"",
+          "buyerInn": "7444053991",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0099007444053991025401158815",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Мажитов Амир Хасанович",
+          "sellerInn": "025401484390",
+          "buyerName": "ИП Байрамгулов  Арслан Иршатович",
+          "buyerInn": "025405158196",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0004025405158196025401484390",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Кутлугалямов Данис Алмасович",
+          "sellerInn": "025401672481",
+          "buyerName": "ИП Байрамгулов Мурадым Абдулхаевич",
+          "buyerInn": "025405104585",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0010025405104585025401672481",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Гаиткулов Айдар Валлямович",
+          "sellerInn": "025405568932",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0033000000000000025405568932",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Аветисян Андраник Вилени",
+          "sellerInn": "030903927187",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0018000000000000030903927187",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "АЛТТОРГ ПЛЮС",
+          "sellerInn": "2204089360",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0021000000000000002204089360",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "АЛТТОРГ ПЛЮС",
+          "sellerInn": "2204089360",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0022000000000000002204089360",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЕХСЕРВИС\"",
+          "sellerInn": "2410003560",
+          "buyerName": "ИП Говор Ольга Владимировна",
+          "buyerInn": "781075127486",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0002781075127486002410003560",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Шмелев Дмитрий Викторович",
+          "sellerInn": "332404200670",
+          "buyerName": "ИП Ковальчук Василий Васильевич",
+          "buyerInn": "231124878563",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0005231124878563332404200670",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Шмелев Дмитрий Викторович",
+          "sellerInn": "332404200670",
+          "buyerName": "ИП Шабанова Яна Валерьевна",
+          "buyerInn": "233506439057",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0004233506439057332404200670",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "Крестьянское хозяйство Корепина Владимира Васильевича",
+          "sellerInn": "3514002146",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0050000000000000003514002146",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Сунцов Александр Владимирович",
+          "sellerInn": "432101976360",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0027000000000000432101976360",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Шевчук Елена Васильевна",
+          "sellerInn": "450400340004",
+          "buyerName": "Ложкина Ольга",
+          "buyerInn": "960218451451",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0002039800048701450400340004",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Щербинин Александр Константинович",
+          "sellerInn": "521200006181",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0056000000000000521200006181",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП ФЕДОРОВ СЕРГЕЙ ВЛАДИМИРОВИЧ",
+          "sellerInn": "552200487214",
+          "buyerName": "ООО \"АФЗ-ПК\"",
+          "buyerInn": "5501241334",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0006005501241334552200487214",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Грузляк Владимир Эмилевич",
+          "sellerInn": "553500492369",
+          "buyerName": "ИП Стукачев Сергей Александрович",
+          "buyerInn": "552501273537",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0125552501273537553500492369",
+          "__typename": "ReportWoodDeal"
+        }
+      ],
+      "__typename": "PageReportWoodDeal"
+    }
+  }
+} 
+
+{
+  "data": {
+    "searchReportWoodDeal": {
+      "content": [
+        {
+          "sellerName": "ИП Кириллов  Вячеслав  Иванович",
+          "sellerInn": "553501722150",
+          "buyerName": "ИП Стукачев Сергей Александрович",
+          "buyerInn": "552501273537",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0008552501273537553501722150",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Курочкин Дмитрий Владимирович",
+          "sellerInn": "553600134470",
+          "buyerName": "ИП Алимова Оксана Геннадьевна",
+          "buyerInn": "552806696103",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0002552806696103553600134470",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Кобелев Александр Сергеевич",
+          "sellerInn": "593101092149",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0105000000000000593101092149",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Колесов Александр Владимирович",
+          "sellerInn": "637200912845",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 1.863,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0273000000000000637200912845",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Ахмедова Анна Викторовна",
+          "sellerInn": "644101575540",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0022000000000000644101575540",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Упоров Роман Николаевич",
+          "sellerInn": "660202911956",
+          "buyerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ТОРГОВО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ \"УРАЛРЕСУРС\"",
+          "buyerInn": "6671088886",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0002006671088886660202911956",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФАВОРИТ\"",
+          "sellerInn": "6677001521",
+          "buyerName": "ООО SIB FORREST GROUP (ООО Сиб Форрест Групп)",
+          "buyerInn": "860",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 131.86,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0002086000034120006677001521",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Бегов Фарход Махмадносирович",
+          "sellerInn": "671206249259",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0056000000000000671206249259",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Бегов Фарход Махмадносирович",
+          "sellerInn": "671206249259",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0057000000000000671206249259",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Бегов Фарход Махмадносирович",
+          "sellerInn": "671206249259",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0058000000000000671206249259",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП МАРКИН РОМАН ВЛАДИМИРОВИЧ",
+          "sellerInn": "680900178026",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 30.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0298000000000000680900178026",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ОБЪЕКТИВ\"",
+          "sellerInn": "7203502136",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0493000000000000007203502136",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ТОРГОВЫЙ ДОМ \"ВОРОНОВ И К\"",
+          "sellerInn": "7205024238",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.03,
+          "dealDate": "2022-08-14",
+          "dealNumber": "1618000000000000007205024238",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ТОРГОВЫЙ ДОМ \"ВОРОНОВ И К\"",
+          "sellerInn": "7205024238",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.225,
+          "dealDate": "2022-08-14",
+          "dealNumber": "1617000000000000007205024238",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Мелёшина Нина Юрьевна",
+          "sellerInn": "730900653843",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0906000000000000730900653843",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕСНАЯ ДОЛИНА\"",
+          "sellerInn": "7311006512",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0048000000000000007311006512",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Казаков Сергей Семёнович",
+          "sellerInn": "744300305608",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0008000000000000744300305608",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Минин Леонид Петрович",
+          "sellerInn": "810400881707",
+          "buyerName": "ИП КАЗАНОВ ИВАН АЛЕКСАНДРОВИЧ",
+          "buyerInn": "562700029716",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-14",
+          "dealNumber": "0003562700029716810400881707",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Закиров Садат Маннафович",
+          "sellerInn": "022003042252",
+          "buyerName": "Физическое лицо",
+          "buyerInn": "",
+          "woodVolumeBuyer": 0.0,
+          "woodVolumeSeller": 0.0,
+          "dealDate": "2022-08-13",
+          "dealNumber": "0031000000000000022003042252",
+          "__typename": "ReportWoodDeal"
+        },
+        {
+          "sellerName": "ИП Иванов Николай Геннадиевич",
+          "sellerInn": "022301713403",
+          "buyerName": "ИП Пулатов Виталий Борисович",
+          "buyerInn": "565102134325",
+          "woodVolumeBuyer": 27.0,
+          "woodVolumeSeller": 27.0,
+          "dealDate": "2022-08-13",
+          "dealNumber": "0003565102134325022301713403",
+          "__typename": "ReportWoodDeal"
+        }
+      ],
+      "__typename": "PageReportWoodDeal"
+    }
+  }
+}
